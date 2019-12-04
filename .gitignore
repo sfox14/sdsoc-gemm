@@ -1,0 +1,6 @@
+*.log
+*.vivado
+hls/prj
+sdsoc/outputs
+sdsoc/Pynq-Z1
+sdsoc/RFSoC
